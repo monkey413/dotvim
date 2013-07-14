@@ -1,0 +1,3 @@
+[submodule "bundle/jscomplete-vim"]
+	path = bundle/jscomplete-vim
+	url = https://github.com/teramako/jscomplete-vim.git
