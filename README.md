@@ -5,3 +5,7 @@
 #Create symlinks: 
 	
 	ln -s ~/.vim/vimrc ~/.vimrc
+
+#Finish 
+	
+	accomplish the installatioin of pathogen 
