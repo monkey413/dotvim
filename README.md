@@ -10,3 +10,4 @@
 	
 	accomplish the installation of pathogen 
 	accomplish the installation of jscomplete-vim 
+	accomplish the installation of clang_complete
